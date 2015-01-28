@@ -13,7 +13,7 @@ sly
 ###key bindings
 
 | key | action |
-| - | - |
+| --- | --- |
 | right | load next image |
 | left | load prev image |
 | space | auto mode on \ off |
