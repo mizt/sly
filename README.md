@@ -14,6 +14,7 @@ sly
 
 | key | action |
 | --- | --- |
+| esc | fullscreen mode on \ off |
 | right | load next image |
 | left | load prev image |
 | space | auto mode on \ off |
