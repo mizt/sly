@@ -1,5 +1,8 @@
 sly
 ======================
+###requirements
+Mac OS X 10.9+
+
 ###usage
 
     mkdir ~/Pictures/sly
