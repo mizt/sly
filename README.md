@@ -20,8 +20,8 @@ Mac OS X 10.9+
 | esc | fullscreen mode on \ off |
 | right | load next image |
 | left | load prev image |
-| r | load random image |
 | space | auto mode on \ off |
+| r | load random image |
 | c | hide \ unhide cursor |
 | 1 - 9 | specifies the amount to stops in auto mode |
 
