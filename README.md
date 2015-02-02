@@ -24,4 +24,4 @@ Mac OS X 10.9+
 | r | load random image |
 | c | hide \ unhide cursor |
 | 1 - 9 | specifies the amount to stops in auto mode |
-
+| g | transforms an image to grey scale |
