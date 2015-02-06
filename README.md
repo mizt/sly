@@ -21,7 +21,8 @@ Mac OS X 10.9+
 | right | load next image |
 | left | load prev image |
 | space | auto mode on \ off |
-| r | load random image |
-| c | hide \ unhide cursor |
 | 1 - 9 | specifies the amount to stops in auto mode |
+| r | load random image |
+| b | background mode cover \ contain |
 | g | transforms an image to grey scale |
+| c | hide \ unhide cursor |
