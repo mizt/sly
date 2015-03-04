@@ -1,0 +1,11 @@
+{
+	"text":{
+		"font":"'Hiragino Kaku Gothic ProN'",
+		"size":"64px",
+		"weight":"bold",
+		"color":"#FFF",
+		"x":"(WINDOW_W-TEXT_W)>>1",
+		"y":"(WINDOW_H-TEXT_H)>>1",
+		"content":"FILE_NAME.slice(0,FILE_NAME.length-4)"
+	}
+}
