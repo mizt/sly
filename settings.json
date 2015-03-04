@@ -2,6 +2,7 @@
 	"text":{
 		"font":"'Hiragino Kaku Gothic ProN'",
 		"size":"64px",
+		"height":"1.2em",
 		"weight":"bold",
 		"color":"#FFF",
 		"x":"(WINDOW_W-TEXT_W)>>1",

@@ -35,6 +35,7 @@ Mac OS X 10.9+
 | --- | --- |
 | text.font | 'Hiragino Kaku Gothic ProN' |
 | text.size | 64px |
+| text.height | 1.2em |
 | text.weight | bold |
 | text.color | #FFF |
 | text.x | (WINDOW_W-TEXT_W)>>1|
