@@ -37,8 +37,10 @@ Mac OS X 10.9+
 | text.size | 64px |
 | text.weight | bold |
 | text.color | #FFF |
-| text.x | (WINDOW_W-TEXT_W)>>1 |
-| text.y | (WINDOW_H-TEXT_H)>>1  |
+| text.x | (WINDOW_W-TEXT_W)>>1|
+| text.y | (WINDOW_H-TEXT_H)>>1|
 | text.content | FILE_NAME.slice(0,FILE_NAME.length-4) |
+
+\* unit of 'text.x' or 'text.y' is 'px';
 
 
