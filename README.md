@@ -11,6 +11,8 @@ Mac OS X 10.9+
     cp ~/Desktop/hoge.jpg ~/Pictures/sly
     cp ~/Desktop/hoge.png ~/Pictures/sly
     cp ~/Desktop/hoge.gif ~/Pictures/sly
+    cp ~/Desktop/hoge.pdf ~/Pictures/sly
+    cp ~/Desktop/hoge.svg ~/Pictures/sly
     
     open /Applications/sly.app
     
@@ -28,11 +30,16 @@ Mac OS X 10.9+
 | g | transforms an image to grey scale |
 | c | hide \ unhide cursor |
 | t | hide \ unhide filename |
+| up | load next directory |
+| down | load prev directory |
+| f | directory freeze on \ off |
 
 ###setting.json
 
 | key | value |
 | --- | --- |
+| root | / |
+| backgroundColor | #000 |
 | text.font | 'Hiragino Kaku Gothic ProN' |
 | text.size | 64px |
 | text.height | 1.2em |
@@ -42,6 +49,6 @@ Mac OS X 10.9+
 | text.y | (WINDOW_H-TEXT_H)>>1|
 | text.content | FILE_NAME.slice(0,FILE_NAME.length-4) |
 
-\* unit of 'text.x' or 'text.y' is 'px';
+\* unit of text.x / y is 'px';
 
 
