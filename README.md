@@ -39,15 +39,21 @@ Mac OS X 10.9+
 | key | value |
 | --- | --- |
 | root | / |
-| backgroundColor | #000 |
+| auto  | true |
+| speed | 5 |
+| background.color | '#000' |
+| background.mode | 'cover' |
 | text.font | 'Hiragino Kaku Gothic ProN' |
-| text.size | 64px |
-| text.height | 1.2em |
-| text.weight | bold |
-| text.color | #FFF |
+| text.size | '64px' |
+| text.height | '1.2em' |
+| text.weight | 'bold' |
+| text.color | '#FFF' |
 | text.x | (WINDOW_W-TEXT_W)>>1|
 | text.y | (WINDOW_H-TEXT_H)>>1|
 | text.content | FILE_NAME.slice(0,FILE_NAME.length-4) |
+| text.visible | false |
+| fullscreen | false |
+| cursor | true |
 
 \* unit of text.x / y is 'px';
 

@@ -1,13 +1,21 @@
 {
 	"root":"/",
-	"backgroundColor":"#000",
+	"background":{
+		"mode":"contain",
+		"color":"#000"
+	},
+	"auto":true,
+	"speed":7,
 	"text":{
 		"font":"'Hiragino Kaku Gothic ProN'",
 		"size":"18px",
 		"weight":"bold",
 		"color":"#FFF",
-		"x":"(WINDOW_W-TEXT_W-14)",
-		"y":"(WINDOW_H-TEXT_H-10)",
-		"content":"FILE_NAME"
-	}
+		"x":"(WINDOW_W-TEXT_W-28)",
+		"y":"(WINDOW_H-TEXT_H-20)",
+		"content":"FILE_NAME",
+		"visible":true
+	},
+	"fullscreen":false,
+	"cursor":true
 }
