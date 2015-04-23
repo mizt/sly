@@ -14,6 +14,7 @@
 		"x":"(WINDOW_W-TEXT_W-28)",
 		"y":"(WINDOW_H-TEXT_H-20)",
 		"content":"FILE_NAME",
+		"exclusion":true,
 		"visible":true
 	},
 	"fullscreen":false,
