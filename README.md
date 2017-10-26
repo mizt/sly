@@ -1,9 +1,11 @@
-sly
+## sly   
+Tokisato Miztsuru 2015 - 
+
 ======================
-###requirements
+### requirements
 Mac OS X 10.9+
 
-###usage
+### usage
 
     mkdir ~/Pictures/sly
     cp settings.json ~/Pictures/sly
@@ -16,7 +18,7 @@ Mac OS X 10.9+
     
     open /Applications/sly.app
     
-###key bindings
+### key bindings
 
 | key | action |
 | :-: | --- |
@@ -34,7 +36,7 @@ Mac OS X 10.9+
 | down | load prev directory |
 | f | directory freeze on \ off |
 
-###setting.json
+### setting.json
 
 | key | value |
 | --- | --- |
