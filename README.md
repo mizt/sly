@@ -1,7 +1,6 @@
-## sly   
-Tokisato Miztsuru 2015 - 
+### sly   
+Tokisato Miztsuru 2015
 
-======================
 ### requirements
 Mac OS X 10.9+
 
